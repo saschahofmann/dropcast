@@ -1,7 +1,0 @@
-name: dropcast
-channels:
-  - conda-forge
-dependencies:
-  - jupyter
-  - pillow
-  - opencv
